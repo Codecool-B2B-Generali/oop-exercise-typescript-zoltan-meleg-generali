@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "## Story",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codecool-B2B-Generali/oop-exercise-typescript-zoltan-meleg-generali.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codecool-B2B-Generali/oop-exercise-typescript-zoltan-meleg-generali/issues"
+  },
+  "homepage": "https://github.com/Codecool-B2B-Generali/oop-exercise-typescript-zoltan-meleg-generali#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.4.3"
+  }
+}
